@@ -1,0 +1,17 @@
+# Java files
+backend/target/
+backend/.mvn/
+backend/.idea/
+backend/*.iml
+
+# Node.js files
+frontend/node_modules/
+frontend/.next/
+frontend/.cache/
+frontend/dist/
+
+# General
+.DS_Store
+.env
+.vscode/
+.idea/
