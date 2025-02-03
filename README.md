@@ -3,7 +3,7 @@
 A full-stack **Todo Application** built using **Spring Boot** (Backend) and **React** (Frontend).
 
 ## 📌 Features
-- ✅ User authentication & authorization (JWT-based)
+- ✅ User authentication & authorization - JWT-based and Centralized Authentication State (AuthContext)
 - ✅ Create, update, delete, and view todos
 - ✅ Mark todos as completed
 - ✅ Responsive UI built with React
@@ -11,6 +11,8 @@ A full-stack **Todo Application** built using **Spring Boot** (Backend) and **Re
 - ✅ PostgreSQL/MySQL Database Integration (currently using h2 database)
 - ✅ Secure backend with Spring Security
 - ✅ Frontend state management using React Hooks
+- ✅ Custom Error Messages and Global Error Handler
+
 
 ---
 
