@@ -74,3 +74,16 @@ The frontend runs on http://localhost:3000.
 
 
 
+## 📸 Screenshots
+
+### 🏠 Welcome Page
+![Welcome Page](./screenshots/Welcome%20Page.png)
+
+### ✅ Todo List
+![Todo List](./screenshots/Todo%20List.png)
+
+### ➕ Create New Todo
+![Create Todo](./screenshots/Add%20a%20new%20todo.png)
+
+### 🗄️ Database Structure
+![Database](./screenshots/Database.png)
