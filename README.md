@@ -38,8 +38,8 @@ A full-stack **Todo Application** built using **Spring Boot** (Backend) and **Re
 
 ### **1️⃣ Clone the Repository**
 ```sh
-git clone https://github.com/your-username/todo-app.git
-cd todo-app
+git clone https://github.com/Adityayadav0505/Todo-Application.git
+cd todo-Application
 ```
 🎯 Backend Setup (Spring Boot)
 
