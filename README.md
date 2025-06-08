@@ -1,6 +1,6 @@
 # 📝 Todo Application
 
-A full-stack **Todo Application** built using **Spring Boot** (Backend) and **React** (Frontend).
+A full-stack **Todo Application** built using **Spring Boot** (Backend) and **React** (Frontend)
 
 ## 📌 Features
 - ✅ User authentication & authorization - JWT-based and Centralized Authentication State (AuthContext)
